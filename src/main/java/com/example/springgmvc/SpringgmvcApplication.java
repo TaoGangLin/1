@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringgmvcApplication {
 
+    // 添加注释
     public static void main(String[] args) {
         SpringApplication.run(SpringgmvcApplication.class, args);
     }
-3rdqq3rq
+
 }
